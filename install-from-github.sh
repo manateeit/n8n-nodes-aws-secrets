@@ -7,7 +7,7 @@ set -e
 EC2_IP="${EC2_IP:-10.0.1.143}"
 EC2_USER="${EC2_USER:-ec2-user}"
 SSH_KEY="${SSH_KEY:-~/.ssh/your-key.pem}"
-GITHUB_REPO="${GITHUB_REPO:-archtop/n8n-nodes-aws-secrets}"
+GITHUB_REPO="${GITHUB_REPO:-manateeit/n8n-nodes-aws-secrets}"
 
 echo "🚀 Installing n8n AWS Secrets Manager Node from GitHub"
 echo "========================================================"

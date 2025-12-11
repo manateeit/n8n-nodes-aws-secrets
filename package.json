@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "AWS Secrets Manager node for n8n",
   "license": "MIT",
-  "homepage": "https://github.com/archtop/n8n-nodes-aws-secrets",
+  "homepage": "https://github.com/manateeit/n8n-nodes-aws-secrets",
   "author": {
     "name": "Archtop",
     "email": "info@archtop.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/archtop/n8n-nodes-aws-secrets.git"
+    "url": "https://github.com/manateeit/n8n-nodes-aws-secrets.git"
   },
   "main": "index.js",
   "scripts": {
